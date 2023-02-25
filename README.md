@@ -1,2 +1,2 @@
-# dev-end
-Playbook para criação de VM GCP
+# dev-env
+Ansible da Estação Remota de Desenvolvimento
